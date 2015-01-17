@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512">
+ <path d="M 267 14 C 139.9745 14 37 116.9745 37 244 C 37 254.978 37.7627 265.77595 39.25 276.34375 C 39.3558 276.49635 39.4574 276.6587 39.5625 276.8125 C 46.7788 332.6373 65.31555 387.20305 34.21875 426.28125 L 6 454.5 L 6 506 L 61.96875 506 L 87.65625 480.3125 L 87.6875 480.3125 C 128.3637 449.1509 182.1474 467.4029 241.75 472.625 C 241.76 472.6259 241.77135 472.6241 241.78125 472.625 C 250.06635 473.5346 258.4729 474 267 474 C 271.2987 474 275.572 473.8578 279.8125 473.625 C 400.87925 466.9786 497 366.7268 497 244 C 497 116.9745 394.0255 14 267 14 z M 267 75 C 346.83298 75 413.75007 130.36002 431.4375 204.78125 L 463.3125 230.34375 A 17.50175 17.50175 0 0 1 463.3125 257.65625 L 431.4375 283.21875 C 413.75007 357.63998 346.83298 413 267 413 C 187.16702 413 120.24993 357.63998 102.5625 283.21875 L 70.6875 257.65625 A 17.50175 17.50175 0 0 1 70.6875 230.34375 L 102.5625 204.78125 C 120.24993 130.36002 187.16702 75 267 75 z" fill="#6788cc"/>
+ <path d="M 196.27103 160.76695 92.47246 244 l 103.79857 83.23305 0 -45.19122 123.77569 0 17.68225 0 0 45.19122 L 441.52755 244 337.72897 160.76695 l 0 45.19122 -17.68225 0 -123.77569 0 0 -45.19122 z" fill="#6788cc"/>
+ <text font-size="208.33333" letter-spacing="0" line-height="125%" word-spacing="0" transform="scale(-1,1)" x="-2381.1548" y="543.48969" font-family="Gentium Book Basic" fill="#6788cc"><tspan x="-2381.1548" y="543.48969"/>
+ </text>
+ <text x="-275.65866" y="1618.0455" font-size="75.69771" transform="scale(-4.0128362,0.2492003)" font-family="Arial" text-anchor="middle" fill="#6788cc"/>
+ <text font-size="208.33333" letter-spacing="0" line-height="125%" word-spacing="0" transform="scale(-1,1)" x="-2386.9473" y="582.67963" font-family="Gentium Book Basic" fill="#6788cc"><tspan x="-2386.9473" y="582.67963"/>
+ </text>
+ <text x="-277.10226" y="1775.3092" font-size="75.69771" transform="scale(-4.0128362,0.2492003)" font-family="Arial" text-anchor="middle" fill="#6788cc"/>
+ <text font-size="127.88146" letter-spacing="0" line-height="125%" word-spacing="0" transform="scale(-1.0508243,0.95163388)" x="-1706.6604" y="304.51071" fill="#6788cc" font-family="Gentium Book Basic"><tspan x="-1706.6604" y="304.51071"/>
+ </text>
+ <text x="-230.27031" y="876.4325" font-size="46.4656" transform="scale(-4.2167858,0.23714745)" fill="#6788cc" font-family="Arial" text-anchor="middle"/>
+ <text font-size="68.45876" letter-spacing="0" line-height="125%" word-spacing="0" transform="scale(-1.0508243,0.95163388)" x="-1302.6394" y="269.06296" fill="#6788cc" font-family="Gentium Book Basic"><tspan x="-1302.6394" y="269.06296"/>
+ </text>
+ <text x="-220.2128" y="894.73798" font-size="24.874426" transform="scale(-4.2167856,0.23714746)" fill="#6788cc" font-family="Arial" text-anchor="middle"/>
+ <text font-size="200" letter-spacing="0" line-height="125%" word-spacing="0" transform="scale(-1,1)" x="-2911.1519" y="409.70404" fill="#6788cc" font-family="Gentium Book Basic"><tspan x="-2911.1519" y="409.70404"/>
+ </text>
+ <text x="-420.44302" y="1103.7025" font-size="72.6698" transform="scale(-4.0128361,0.24920031)" fill="#6788cc" font-family="Arial" text-anchor="middle"/>
+ <text font-size="208.33333" letter-spacing="0" line-height="125%" word-spacing="0" transform="scale(-1,1)" x="-2301.7266" y="-115.66169" fill="#6788cc" font-family="Gentium Book Basic" stroke="#cd1d31"><tspan x="-2301.7266" y="-115.66169"/>
+ </text>
+ <text x="-255.86522" y="-1027.0208" font-size="75.69771" transform="scale(-4.0128362,0.2492003)" fill="#6788cc" font-family="Arial" text-anchor="middle" stroke="none"/>
+ <text font-size="208.33333" letter-spacing="0" line-height="125%" word-spacing="0" transform="scale(-1,1)" x="-2307.519" y="-76.47175" fill="#6788cc" font-family="Gentium Book Basic" stroke="#cd1d31"><tspan x="-2307.519" y="-76.47175"/>
+ </text>
+ <text x="-257.30859" y="-869.75714" font-size="75.69771" transform="scale(-4.0128362,0.2492003)" fill="#6788cc" font-family="Arial" text-anchor="middle" stroke="none"/>
+ <text font-size="127.88146" letter-spacing="0" line-height="125%" word-spacing="0" transform="scale(-1.0508243,0.95163388)" x="-1631.074" y="-388.14163" fill="#6788cc" font-family="Gentium Book Basic" stroke="#cd1d31"><tspan x="-1631.074" y="-388.14163"/>
+ </text>
+ <text x="-211.43413" y="-1903.0675" font-size="46.4656" transform="scale(-4.2167858,0.23714745)" fill="#6788cc" font-family="Arial" text-anchor="middle" stroke="#cd1d31"/>
+ <text font-size="68.45876" letter-spacing="0" line-height="125%" word-spacing="0" transform="scale(-1.0508243,0.95163388)" x="-1227.0525" y="-423.58939" fill="#6788cc" font-family="Gentium Book Basic" stroke="#cd1d31"><tspan x="-1227.0525" y="-423.58939"/>
+ </text>
+ <text x="-201.3765" y="-1884.7621" font-size="24.874426" transform="scale(-4.2167856,0.23714746)" fill="#6788cc" font-family="Arial" text-anchor="middle" stroke="#cd1d31"/>
+ <text font-size="200" letter-spacing="0" line-height="125%" word-spacing="0" transform="scale(-1,1)" x="-2831.7236" y="-249.44734" fill="#6788cc" font-family="Gentium Book Basic" stroke="#cd1d31"><tspan x="-2831.7236" y="-249.44734"/>
+ </text>
+ <text x="-400.64957" y="-1541.3649" font-size="72.6698" transform="scale(-4.0128361,0.24920031)" fill="#6788cc" font-family="Arial" text-anchor="middle" stroke="none"/>
+ <text font-size="200" letter-spacing="0" line-height="125%" word-spacing="0" transform="scale(-1,1)" x="-1572.2933" y="-403.09796" fill="#6788cc" font-family="Gentium Book Basic" stroke="#cd1d31"><tspan x="-1572.2933" y="-403.09796"/>
+ </text>
+ <text x="-86.79912" y="-2157.9399" font-size="72.6698" transform="scale(-4.0128361,0.24920031)" fill="#6788cc" font-family="Arial" text-anchor="middle" stroke="none"/>
+ <text font-size="200" letter-spacing="0" line-height="125%" word-spacing="0" transform="scale(-1,1)" x="-672.6781" y="-526.91534" fill="#6788cc" font-family="Gentium Book Basic" stroke="#cd1d31"><tspan x="-672.6781" y="-526.91534"/>
+ </text>
+ <text x="137.38521" y="-2654.7983" font-size="72.6698" transform="scale(-4.0128361,0.24920031)" fill="#6788cc" font-family="Arial" text-anchor="middle" stroke="none"/>
+</svg>

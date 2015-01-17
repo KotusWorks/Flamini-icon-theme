@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="512" height="512">
+ <defs>
+  <linearGradient id="0">
+   <stop stop-color="#c8c8c8"/>
+   <stop offset="1" stop-color="#717171"/>
+  </linearGradient>
+  <linearGradient id="1">
+   <stop stop-color="#c8c8c8"/>
+   <stop stop-color="#8c8c8c" offset="1"/>
+  </linearGradient>
+  <linearGradient id="2">
+   <stop stop-color="#242323"/>
+   <stop stop-color="#454343" offset="0.5"/>
+   <stop stop-color="#242323" offset="1"/>
+  </linearGradient>
+  <linearGradient xlink:href="#1" id="3" x1="7.840887" y1="-574.90125" x2="476.43323" y2="-106.30891" gradientUnits="userSpaceOnUse"/>
+  <linearGradient xlink:href="#2" id="4" x1="-55.43018" x2="581.00708" gradientUnits="userSpaceOnUse"/>
+  <linearGradient xlink:href="#0" id="5" x1="151.07701" y1="898.56006" x2="378.68069" y2="1126.1637" gradientUnits="userSpaceOnUse"/>
+ </defs>
+ <g transform="translate(0,-540.36218)">
+  <path d="m 562.85715 -316.57144 c 0 198.82251 -161.17749 360 -360 360 -198.82251 0 -360 -161.17749 -360 -360 0 -198.82251 161.17749 -360 360 -360 198.82251 0 360 161.17749 360 360 z" transform="matrix(0.65807351,0,0,0.65807351,122.50508,1004.6895)" fill="url(#3)" fill-rule="evenodd"/>
+  <path d="M 39.64843 895.2954 C 79.35576 977.09087 161.32396 1033.2533 256 1033.2533 c 94.67604 0 176.64424 -56.16243 216.35157 -137.9579 l -432.70314 0 z" fill="url(#5)" fill-rule="evenodd"/>
+  <path d="m 39.461559 895.11107 c 0.919798 1.92184 0.434551 3.8345 1.405915 5.72623 l 211.92584 0 0 134.7848 c 1.07118 0.015 2.132 0.057 3.20669 0.057 0.84432 0 1.67738 -0.019 2.51954 -0.029 l 0 -134.81345 210.82728 0 c 0.97136 -1.89174 1.91468 -3.80439 2.83448 -5.72623 l -434.14831 0 z" fill="#454343" fill-rule="evenodd" stroke="#454343" color="#000" stroke-width="3.6"/>
+  <path d="M 256 6 C 117.92881 6 6 117.92881 6 256 C 6 394.07119 117.92881 506 256 506 C 394.07119 506 506 394.07119 506 256 C 506 117.92881 394.07119 6 256 6 z M 256 20.53125 C 386.05085 20.53125 491.46875 125.94915 491.46875 256 C 491.46875 386.05085 386.05085 491.46875 256 491.46875 C 125.94915 491.46875 20.53125 386.05085 20.53125 256 C 20.53125 125.94915 125.94915 20.53125 256 20.53125 z" transform="translate(0,540.36218)" fill="url(#4)" fill-rule="evenodd"/>
+ </g>
+</svg>
